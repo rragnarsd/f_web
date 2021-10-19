@@ -34360,7 +34360,7 @@ L(a,b){return T.ix(H.a([L.R6(this.c,K.b7(b).U.a,30),C.Gj,L.eL(this.d,B.QE(C.u,26
 dF(a){return this.d.$0()}}
 E.CE.prototype={
 L(a,b){var s=null,r=t.D
-return E.aau(P.aQ(204,0,0,0),new T.dB(C.vw,E.aca(T.eX(H.a([T.ix(H.a([new E.tE("Projects",s),B.aaW(C.iU,new E.UA(b))],r),C.P,C.fH,C.M,s,s,C.J),C.ck,C.Eo,C.ck,C.Ep,C.ck,C.Eq,C.ck,C.Er,C.ck,C.Es],r),C.bO,C.ab,C.M,s,s,C.J)),s),0)}}
+return E.aau(P.aQ(204,0,0,0),new T.dB(C.vw,E.aca(T.eX(H.a([T.ix(H.a([new E.tE("Projects",s),B.aaW(C.iU,new E.UA(b))],r),C.P,C.fH,C.M,s,s,C.J),C.ck,C.Eo,C.ck,C.Er,C.ck,C.Eq,C.ck,C.Ep,C.ck,C.Es],r),C.bO,C.ab,C.M,s,s,C.J)),s),0)}}
 E.UA.prototype={
 $0(){return K.nB(this.a,!1).cR(0)},
 $S:0}
@@ -58857,10 +58857,10 @@ C.Em=new O.tF(C.zT,"TechStack",null)
 C.tD=new V.CB(1e5)
 C.En=new B.tH(null,null,null,null,null)
 C.Eo=new E.jC("assets/covidapp.png","Covid App","Covid Tracker built with Flutter, it shows worldwide live data of confirmed, recovered, death cases etc. Users can select any country and fetch covid-related data from the API.","https://github.com/rragnarsd/covid_mobile_app",null)
-C.Ep=new E.jC("assets/moviiezapp.png","Movie App","Movie Streaming app built with Flutter and Firebase, it uses API to fetch movie-related data. The user can register/login, add/remove movies to/from favorites etc.","https://github.com/rragnarsd/movie_stream",null)
-C.Eq=new E.jC("assets/portfolio.jpg","Portfolio Web App","Portfolio Web App built with Flutter.","https://github.com/rragnarsd/flutter_web_portfolio",null)
-C.Er=new E.jC("assets/yolodepart.jpg","Travel Club","Website built with HTML/CSS/JQUERY.","https://github.com/rragnarsd/travel_club",null)
-C.Es=new E.jC("assets/iphone.jpg","Simplified iPhone's","Website built with HTML/CSS/JS.","https://github.com/rragnarsd/iPhone-website",null)
+C.Ep=new E.jC("assets/yolodepart.png","Travel Club","Website built with HTML/CSS/JQUERY.","https://github.com/rragnarsd/travel_club",null)
+C.Eq=new E.jC("assets/portfolio.png","Portfolio Web App","Portfolio Web App built with Flutter.","https://github.com/rragnarsd/rragnarsd.github.io",null)
+C.Er=new E.jC("assets/moviiezapp.png","Movie App","Movie Streaming app built with Flutter and Firebase, it uses API to fetch movie-related data. The user can register/login, add/remove movies to/from favorites etc.","https://github.com/rragnarsd/movie_stream",null)
+C.Es=new E.jC("assets/iphone.png","Simplified iPhone's","Website built with HTML/CSS/JS.","https://github.com/rragnarsd/iPhone-website",null)
 C.Eu=new P.eH(20,20,60,60,10,10,10,10,10,10,10,10,!0)
 C.Ev=new T.tJ(null,null,null,null,null,null)
 C.d_=new P.bN(4,4)

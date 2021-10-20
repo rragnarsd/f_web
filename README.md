@@ -17,7 +17,7 @@
 
 ## Design
 - Font Family: Lato and ArchitectsDaughter
-- Custom App name and Logo
+- Custom App name and Logo from FavIcons
 
 ## Obstacles
 - The hardest part for me building this portfolio was the scaling or to get the site to be responsive :cold_sweat: 

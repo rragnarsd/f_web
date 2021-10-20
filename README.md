@@ -17,8 +17,9 @@
 
 ## Design
 - Font Family: Lato and ArchitectsDaughter
+- Custom App name and Logo from FavIcons
 
 ## Obstacles
 - The hardest part for me building this portfolio was the scaling or to get the site to be responsive :cold_sweat: 
-- At some point I thought about going the easy way and switch to HTML/CSS/JS but now I'm really happy that I didn't because I learned alot on this adventure :nerd_face:
+- At one point I thought about going the easy way and switch to HTML/CSS/JS but now I'm really happy that I didn't because I learned alot on this adventure :nerd_face:
 - So hopefully the next time I decide to build a Web App it will not be as frustrating :technologist:

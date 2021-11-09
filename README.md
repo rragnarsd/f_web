@@ -21,10 +21,15 @@
 - Font Family: Lato and ArchitectsDaughter
 - Custom App name and Logo from FavIcons
 
-## Obstacles
+## Challenges
 - The hardest part for me building this portfolio was the scaling or to get the site to be responsive :cold_sweat: 
 - At one point I thought about going the easy way and switch to HTML/CSS/JS but now I'm really happy that I didn't because I learned alot on this adventure :nerd_face:
 - So hopefully the next time I decide to build a Web App it will not be as frustrating :technologist:
+
+## Updates
+- 09/11/2021
+  - Added a new project to the portfolio
+  - Added responsive-ness to the buttons on the Home Page - display them in Column when smaller then Tablet, otherwise in Row.
 
 ## Live preview
 - https://rragnarsd.github.io/#/

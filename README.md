@@ -27,7 +27,7 @@
 - So hopefully the next time I decide to build a Web App it will not be as frustrating :technologist:
 
 ## Updates
-- 09/11/2021
+- :zero::nine:/:one::one:/:two::zero::two::one:
   - Added a new project to the portfolio
   - Added responsive-ness to the buttons on the Home Page - display them in Column when smaller then Tablet, otherwise in Row.
 
